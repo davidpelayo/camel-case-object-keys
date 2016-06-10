@@ -1,0 +1,30 @@
+{
+  "name": "camel-case-object-keys",
+  "version": "1.0.0",
+  "description": "Convert your object to an object with its keys in camelCase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidpelayo/camel-case-object-keys.git"
+  },
+  "keywords": [
+    "camelCase",
+    "lodash",
+    "objects",
+    "utils",
+    "es6",
+    "javascript"
+  ],
+  "author": "David Pelayo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidpelayo/camel-case-object-keys/issues"
+  },
+  "homepage": "https://github.com/davidpelayo/camel-case-object-keys#readme",
+  "devDependencies": {
+    "lodash": "^4.13.1"
+  }
+}
